@@ -1,9 +1,9 @@
 CACHE MANIFEST
 # 2015-07-28
-# 4
+# 6
 
 index.html
 fork.png
 
-NETWORK:
-online.png
+FALLBACK:
+online.png offline.png
